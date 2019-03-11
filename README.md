@@ -1,8 +1,7 @@
-# Seminar Datenanalyse mit Python
+# Seminar "Einführung in die Datenanalyse mit Python"
 
-Hier finden Sie alle Inhalte zum Seminar Datenanalyse in Python. 
+Hier finden Sie alle Inhalte zum Seminar Datenanalyse in Python.
 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zeidlerf/Seminar_DatenAnalyse/master?filepath=Seminar_DatenAnalyse%2F01_Einf%C3%BChrung.ipynb)
+[01 - Einführung](01_Einführung.ipynb)
 
 
