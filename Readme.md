@@ -12,11 +12,12 @@ Hier finden Sie alle Inhalte zum Seminar Datenanalyse in Python.
 
 [04 - Module](04_Module_nutzen.ipynb)
 
-Jedes Kapitel ist ein Jupyter Notebook, welches Sie sich entweder lokal herunterladen können. Alternativ können Sie die Notebooks auch über 
+Jedes Kapitel ist ein Jupyter Notebook, welches Sie sich entweder lokal herunterladen können. Alternativ können Sie die Notebooks auch über (i) MyBinder oder (ii) Google Colab interaktiv öffnen. 
 
-MyBinder .... folgenden [Link](insert_my_binder_link) direkt interaktiv öffnen (jedoch Änderungen nicht speichern!).
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zeidlerf/Seminar_DatenAnalyse/master)
 
-Collab 
+[Colab to come!]
+
 
 Viel Spaß beim Einarbeiten in Python!
 
