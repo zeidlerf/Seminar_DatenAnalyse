@@ -12,14 +12,28 @@ Hier finden Sie alle Inhalte zum Seminar Datenanalyse in Python.
 
 [04 - Module](04_Module_nutzen.ipynb)
 
-Jedes Kapitel ist ein Jupyter Notebook, welches Sie sich entweder lokal herunterladen können. Alternativ können Sie die Notebooks auch über (i) MyBinder oder (ii) Google Colab interaktiv öffnen. 
+[05 - Beispiel Datenanalyse](05_Beispiel_Datenanalyse.ipynb)
+
+Jedes Kapitel ist ein Jupyter Notebook. Sie haben zwei Möglichkeiten:
+
+1. Herunterladen des Repositories 
+
+2. Notebooks inter aktiv öffnen 
+
+Falls Sie die Notebooks interaktiv öffnen möchten, können Sie dies über `mybinder` oder über `google colab` tun: 
+
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zeidlerf/Seminar_DatenAnalyse/master)
 
-[Colab to come!]
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zeidlerf/Seminar_DatenAnalyse/blob/master/01_Einf%C3%BChrung.ipynb)
+
+Für den Anfang empfiehlt es sich die interaktive Variante zu wählen, da Sie sich so jeglichen Installationsaufwand sparen, d.h. weder Python noch Jupyter Notebooks installieren müssen. 
 
 
 Viel Spaß beim Einarbeiten in Python!
+
+
 
 
 
