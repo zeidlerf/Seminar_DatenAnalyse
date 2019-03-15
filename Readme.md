@@ -20,7 +20,7 @@ Jedes Kapitel ist ein Jupyter Notebook. Sie haben zwei Möglichkeiten:
 
 1. Herunterladen des Repositories 
 
-2. Notebooks inter aktiv öffnen 
+2. Notebooks interaktiv öffnen 
 
 Falls Sie die Notebooks interaktiv öffnen möchten, können Sie dies über `mybinder` oder über `google colab` tun: 
 
