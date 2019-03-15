@@ -14,6 +14,8 @@ Hier finden Sie alle Inhalte zum Seminar Datenanalyse in Python.
 
 [05 - Beispiel Datenanalyse](05_Beispiel_Datenanalyse.ipynb)
 
+[06 - Aufgabenstellung](06_Aufgabe.ipynb)
+
 Jedes Kapitel ist ein Jupyter Notebook. Sie haben zwei Möglichkeiten:
 
 1. Herunterladen des Repositories 
