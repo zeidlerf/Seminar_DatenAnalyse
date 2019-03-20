@@ -22,7 +22,7 @@ Jedes Kapitel ist ein Jupyter Notebook. Sie haben zwei Möglichkeiten:
 
 2. Notebooks interaktiv öffnen 
 
-Falls Sie die Notebooks interaktiv öffnen möchten, können Sie dies über `mybinder` oder über `google colab` tun: 
+Falls Sie die Notebooks interaktiv öffnen möchten, können Sie dies über `mybinder` oder über `google colab` (Hinweis: Google Drive Account nötig) tun: 
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zeidlerf/Seminar_DatenAnalyse/master)
